@@ -1,0 +1,130 @@
+body{
+    font-family: 'Varela Round', sans-serif;
+    margin: 0;
+    
+    
+}
+section{
+    height: 500px;
+    
+}
+.top-section{
+    background-image: url("images/header-bg.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    
+}
+.half-width{
+    float: left;
+    width: 40%;
+    margin-left: 7%;
+    padding-left: 3%;
+    
+}
+.top-div{
+    margin-top: 100px;
+
+    
+}
+h1{
+    font-size: 40px;
+    color: rgb(245, 115, 40);
+    
+}
+
+.half-width img{
+    width: 80%;
+    margin-top: 30px;
+}
+
+.hire-me{
+    text-decoration: none;
+    background-color: tomato;
+    color: white;
+    padding: 7px 10px;
+    border-radius: 5px;
+}
+section{
+    height: 600px;
+}
+.middle-section{
+    background-image: url("images/biography-bg.png");
+    background-size: cover;
+}
+.middle-div{
+    margin-top: 170px;
+}
+.mlt{
+    text-align: center;
+    padding-top: 70px;
+    padding-bottom: 60px;
+}
+.my-latest-work{
+    
+    background-image: url("images/latest-work-bg.png");
+    background-size: cover;
+    height: 500px;
+    padding-bottom: 50px;
+}
+.next-step{
+    
+    float: left;
+    width: 25%;
+    margin-left: 7%;
+    padding-left: 3%; 
+}
+.mtp{
+    margin-left: 0;
+    padding-left: 3%;
+}
+.last-section{
+    background-image: url("images/footer-bg.png");
+    background-size: cover;
+    height: 600px;
+    text-align: center ;
+    
+}
+.ceo{
+    padding-bottom: 0;
+}
+
+.last-section-div1 p{
+    width: 400px;
+    margin-left: 475px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+.massege{
+    background-color: tomato;
+    color: white;
+    border-radius: 6px;
+    height: 200px;
+    width: 70%;
+    text-align: center;
+    margin-left: 200px;
+    
+    
+}
+.massege div{
+    padding: 30px;
+}
+.massege div a{
+    text-decoration: none;
+    color: white;
+    font-size: 40px;
+
+}
+
+.last-half-width{
+    
+    margin: 7%;
+    padding: 3%;
+    
+}
+footer{
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 20px;
+}
